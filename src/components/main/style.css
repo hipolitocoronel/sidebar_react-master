@@ -1,0 +1,22 @@
+.main-content{
+      padding: 10px;
+}
+
+
+.main-body-content{
+      background-color: #fff;
+      border: 3px dashed #dbdbdb;
+      height: 72vh;
+}
+
+.main-header-content{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-size: .8em;
+}
+.main-header-content > button{
+      font-size: .6em;
+}
+
+
